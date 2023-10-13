@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Mari/AndroidStudioProjects/PrimeiroAppDIO/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Mari/AndroidStudioProjects/PrimeiroApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1805" />
+        <entry key="..\:/Users/Mari/AndroidStudioProjects/PrimeiroApp/app/src/main/res/layout/activity_main.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/Mari/AndroidStudioProjects/PrimeiroAppDIO/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
@@ -12,5 +14,8 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
   </component>
 </project>

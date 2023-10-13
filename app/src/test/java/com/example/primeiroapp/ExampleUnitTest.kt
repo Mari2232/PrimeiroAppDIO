@@ -1,4 +1,4 @@
-package com.example.meuprimeiroappdio
+package com.example.primeiroapp
 
 import org.junit.Test
 
